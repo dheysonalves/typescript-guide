@@ -1,4 +1,4 @@
-# TYPESCRIPT GUIDE
+# TYPESCRIPT PERSONAL GUIDE
 
 Typescript general studies with mini-apps about tuples, generics, decorators, typed annotations, and typed arrays.
 
