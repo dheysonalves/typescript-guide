@@ -68,11 +68,11 @@ A location API using Google Maps API and Faker BR for data generation. **Not foc
 
 The purpose of the application was using OOP with typescript and some design patterns.
 
-##### Design Patterns:
+##### Design Patterns
 
 - Facade
 
-##### Typescript:
+##### Typescript
 
 - Utility Types
 - Inference and annotations
